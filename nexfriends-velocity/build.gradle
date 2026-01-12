@@ -1,0 +1,22 @@
+plugins {
+    id("dev.slne.surf.surfapi.gradle.velocity")
+}
+
+velocityPluginFile {
+    main = "de.hiorcraft.nex.velocity.NexFriendsPlugin"
+    name = "NexFriends"
+    id = "NexFriends"
+    authors = listOf("Hiorcraft")
+    version = "${rootProject.version}"
+
+    pluginDependencies {
+        register("commandapi")
+    }
+}
+
+dependencies {
+    api(project(":nexfriends-core"))
+
+
+    runtimeOnly(project(":nexfriends-fallback"))
+}

@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/nexfriends-core" />
             <option value="$PROJECT_DIR$/nexfriends-fallback" />
             <option value="$PROJECT_DIR$/nexfriends-paper" />
+            <option value="$PROJECT_DIR$/nexfriends-velocity" />
           </set>
         </option>
       </GradleProjectSettings>

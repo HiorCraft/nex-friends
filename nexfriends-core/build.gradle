@@ -1,18 +1,8 @@
 plugins {
-    id 'org.jetbrains.kotlin.jvm'
-}
-
-group = 'de.hiorcraft.nex'
-version = '1.0'
-
-repositories {
-    mavenCentral()
+    id("dev.slne.surf.surfapi.gradle.core")
 }
 
 dependencies {
-    testImplementation 'org.jetbrains.kotlin:kotlin-test'
+    api(project(":nexfriends-api"))
 }
 
-test {
-    useJUnitPlatform()
-}

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="21">
-      <module name="nex-friends.nexfrends-api.test" target="24" />
-      <module name="nex-friends.nexfriends-core.test" target="24" />
-      <module name="nex-friends.nexfriends-fallback.test" target="24" />
-      <module name="nex-friends.nexfriends-paper.test" target="24" />
+      <module name="nex-friends.nexfriends-paper" target="24" />
+      <module name="nex-friends.nexfriends-velocity.test" target="24" />
     </bytecodeTargetLevel>
   </component>
 </project>
