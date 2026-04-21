@@ -3,6 +3,6 @@ plugins {
 }
 
 dependencies {
-    api(project(":nexfriends-api"))
+    api(project(":nex-friends-api"))
 }
 

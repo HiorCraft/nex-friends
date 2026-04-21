@@ -3,6 +3,7 @@ plugins {
 }
 
 dependencies {
-    api(project(":nexfriends-core"))
-    api(libs.surf.database)
+    api(project(":nex-friends-core"))
+
 }
+

@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="21">
-      <module name="nex-friends.nexfriends-paper" target="24" />
+    <bytecodeTargetLevel target="25">
       <module name="nex-friends.nexfriends-velocity.test" target="24" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="nex-friends.nex-friends-api" options="-parameters" />
+      <module name="nex-friends.nex-friends-api.main" options="-parameters" />
+      <module name="nex-friends.nex-friends-api.test" options="-parameters" />
+      <module name="nex-friends.nex-friends-core" options="-parameters" />
+      <module name="nex-friends.nex-friends-core.main" options="-parameters" />
+      <module name="nex-friends.nex-friends-core.test" options="-parameters" />
+      <module name="nex-friends.nex-friends-fallback" options="-parameters" />
+      <module name="nex-friends.nex-friends-fallback.main" options="-parameters" />
+      <module name="nex-friends.nex-friends-fallback.test" options="-parameters" />
+      <module name="nex-friends.nex-friends-paper" options="-parameters" />
+      <module name="nex-friends.nex-friends-paper.main" options="-parameters" />
+      <module name="nex-friends.nex-friends-paper.test" options="-parameters" />
+      <module name="nex-friends.nexfrends-api" options="-parameters" />
+      <module name="nex-friends.nexfrends-api.main" options="-parameters" />
+      <module name="nex-friends.nexfrends-api.test" options="-parameters" />
+      <module name="nex-friends.nexfriends-core" options="-parameters" />
+      <module name="nex-friends.nexfriends-core.main" options="-parameters" />
+      <module name="nex-friends.nexfriends-core.test" options="-parameters" />
+      <module name="nex-friends.nexfriends-fallback" options="-parameters" />
+      <module name="nex-friends.nexfriends-fallback.main" options="-parameters" />
+      <module name="nex-friends.nexfriends-fallback.test" options="-parameters" />
+      <module name="nex-friends.nexfriends-paper" options="-parameters" />
+      <module name="nex-friends.nexfriends-paper.main" options="-parameters" />
+      <module name="nex-friends.nexfriends-paper.test" options="-parameters" />
+    </option>
   </component>
 </project>

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nex-friends.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nex-friends.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nex-friends-api/nex-friends.nex-friends-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nex-friends-api/nex-friends.nex-friends-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nex-friends-core/nex-friends.nex-friends-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nex-friends-core/nex-friends.nex-friends-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nex-friends-fallback/nex-friends.nex-friends-fallback.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nex-friends-fallback/nex-friends.nex-friends-fallback.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nex-friends-paper/nex-friends.nex-friends-paper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nex-friends-paper/nex-friends.nex-friends-paper.main.iml" />
     </modules>
   </component>
 </project>

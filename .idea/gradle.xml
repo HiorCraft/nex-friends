@@ -8,11 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/nexfrends-api" />
-            <option value="$PROJECT_DIR$/nexfriends-core" />
-            <option value="$PROJECT_DIR$/nexfriends-fallback" />
-            <option value="$PROJECT_DIR$/nexfriends-paper" />
-            <option value="$PROJECT_DIR$/nexfriends-velocity" />
+            <option value="$PROJECT_DIR$/nex-friends-api" />
+            <option value="$PROJECT_DIR$/nex-friends-core" />
+            <option value="$PROJECT_DIR$/nex-friends-fallback" />
+            <option value="$PROJECT_DIR$/nex-friends-paper" />
           </set>
         </option>
       </GradleProjectSettings>

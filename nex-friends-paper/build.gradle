@@ -1,0 +1,9 @@
+plugins {
+    id("dev.slne.surf.surfapi.gradle.paper-plugin")
+}
+
+surfPaperPluginApi {
+    mainClass("de.hiorcraft.nex.paper.NexFriendsPaperPlugin")
+}
+
+

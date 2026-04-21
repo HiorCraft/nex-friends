@@ -1,6 +1,6 @@
 rootProject.name = "nex-friends"
 
-include("nexfrends-api")
-include("nexfriends-fallback")
-include("nexfriends-core")
-include("nexfriends-velocity")
+include("nex-friends-api")
+include("nex-friends-fallback")
+include("nex-friends-core")
+include("nex-friends-paper")
